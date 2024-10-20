@@ -27,7 +27,7 @@
 
 ## 프로젝트 주소
 ### ERD
-- https://www.figma.com/design/o7SZzKaTrejO7MRdIWGrkl/Untitled?node-id=0-1&node-type=canvas&t=Y4Z2972kths3nEpl-0
-
+- [https://www.figma.com/design/o7SZzKaTrejO7MRdIWGrkl/Untitled?node-id=0-1&node-type=canvas&t=Y4Z2972kths3nEpl-0](https://www.erdcloud.com/d/SsZ5Br4kf4BWEwptf)
+- 
 ### Figma
-- https://www.erdcloud.com/d/SsZ5Br4kf4BWEwptf
+- [https://www.erdcloud.com/d/SsZ5Br4kf4BWEwptf](https://www.figma.com/design/o7SZzKaTrejO7MRdIWGrkl/Untitled?node-id=0-1&node-type=canvas&t=Y4Z2972kths3nEpl-0)
